@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+header{
+  float: left;
+}
+#w{
+  width: 40%;
+  background:;
+}
+header .w-50 img {
+  width: 30%;
+}
+.w-50 {
+  width: 60%;
+  float: left;
+  background: black;
+}
+.w-50 ul{
+  list-style: none;
+}
+.w-50 li {
+  float: left;
+  display: inline-block;
+  padding: 5.9px ;
+  
+}
+.w-50 a {
+  text-decoration: none;
+  padding: ;
+  display: inline-block;
+  color: white;
+}
+.w-50 a:hover {
+  
+}
+.header-writing{
+  text-align: center;
+  background: pink;
+}
+.header-writing h2 {
+  padding-top: 70px;
+}
+.button-work"{
+  
+}
